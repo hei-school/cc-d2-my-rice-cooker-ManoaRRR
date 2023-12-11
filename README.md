@@ -25,3 +25,15 @@ Note: You can cancel any operation at any time by choosing the appropriate optio
 ### PHP
 ```bash
 php rice_cooker_simulator.php
+
+###C
+gcc rice_cooker_simulator.c -o rice_cooker_simulator
+./rice_cooker_simulator
+
+###C++
+g++ rice_cooker_simulator.cpp -o rice_cooker_simulator
+./rice_cooker_simulator
+
+###Typescript
+tsc rice_cooker_simulator.ts
+node rice_cooker_simulator.js
