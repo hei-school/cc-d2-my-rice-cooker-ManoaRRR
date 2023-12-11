@@ -45,5 +45,5 @@ try {
 
 
 
-This updated README now includes information about using PHP CodeSniffer as a linter for maintaining code quality in your PHP project. Adjust it according to your specific needs or preferences.
+
 
